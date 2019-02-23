@@ -1,7 +1,8 @@
 ## 1.データベース準備
 
-### データベース作成
+  mysqlにアクセスしデータベースとテーブルを作成して下さい。
 
+### データベース作成
 ```
 CREATE DATABASE [データベース名] DEFAULT CHARACTER SET utf8mb4 ;
 ```
